@@ -29,5 +29,5 @@ def extract_and_combine_text(folder_path, output_filename):
 
 # Usage:
 folder_path = "path-to-folder"
-output_filename = 'combined_combined.txt'
+output_filename = 'chapters_combined.txt'
 extract_and_combine_text(folder_path, output_filename)
